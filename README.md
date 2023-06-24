@@ -6,7 +6,8 @@ Chit-chat is a simple, fully functional messaging app capable of one-on
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AyanChaudhary/Chit_Chat/assets/112795104/f7faaea4-aa1a-448e-8845-6ff2f04df7ea)
+![finalphotot](https://github.com/AyanChaudhary/Chit_Chat/assets/112795104/a1b2f9d2-dd9f-446d-9b48-85f11db64dca)
+
 
 
 ## Tools and Libraries used 
